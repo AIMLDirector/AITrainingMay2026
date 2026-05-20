@@ -1,0 +1,38 @@
+ python scripting method:
+
+if <condition>:
+    action
+
+if <condition>:
+    action
+else:
+    action
+
+ 
+if <condition>:
+    action
+elif <condition>:
+    action
+else:
+    action
+
+
+if <condition> and <condition2>:
+    actions
+
+if not  in <condition>:
+    action
+
+if <condition1> or <condition2>:
+    actions
+
+python development method
+
+while + if
+function -> if condition 
+for + if 
+try exception with if condition 
+class -> function -> if condition 
+
+comparision operator ( ==, >=, >, < )
+logical operator ( and, or , not)

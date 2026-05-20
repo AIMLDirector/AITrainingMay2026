@@ -27,4 +27,8 @@ os.environ["default_name"] = "admin"  # set an environment variable
 print(os.environ["default_name"])  # get the value of an environment variable
 
 
+# if os.path.exists(r"C:\Users\Username\Documents\test.txt"):
+#     file_size = os.path.getsize("test.txt")  # get the size of the file in bytes    
+#     print(f"File size: {file_size} bytes")
+
 
